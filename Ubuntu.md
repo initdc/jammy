@@ -1,4 +1,4 @@
-Name:    linux-unstable
+Name:    linux-hwe-5.17
 Version: 5.17.0
 Series:  22.04 (jammy)
 Description:
